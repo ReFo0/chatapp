@@ -1,6 +1,9 @@
 
 This is a simple real-time chat application using Socket.IO and Express.
 
+![](https://img.shields.io/github/stars/refo0/chatapp)
+![](https://img.shields.io/github/forks/refo0/chatapp)
+
 ## Features
 
 - Real-time messaging
