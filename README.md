@@ -1,3 +1,7 @@
 
 
-![image](https://github.com/ReFo0/chatapp/assets/77904942/8195178d-2ea0-4f16-aef6-3246a705464e)
+
+
+
+
+![image](https://github.com/ReFo0/chatapp/assets/77904942/3d17925b-1d0b-44fe-84d2-4cc391499986)
