@@ -25,6 +25,5 @@ These instructions will help you set up and run the project on your local machin
 
 
 
-
-![image](https://github.com/ReFo0/chatapp/assets/77904942/3d17925b-1d0b-44fe-84d2-4cc391499986)
+![image](https://github.com/ReFo0/chatapp/assets/77904942/960ed9f4-4fa4-4cfa-b631-95b82fb09545)
 
