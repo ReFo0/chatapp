@@ -4,17 +4,17 @@ This is a simple real-time chat application using Socket.IO and Express.
 ![](https://img.shields.io/github/stars/refo0/chatapp)
 ![](https://img.shields.io/github/forks/refo0/chatapp)
 
-## Features
+## 🛠 Features
 
 - Real-time messaging
 - User join and leave notifications
 - Responsive design
 
-## Getting Started
+## ⚙️ Getting Started
 
 These instructions will help you set up and run the project on your local machine for development and testing purposes.
 
-### Prerequisites
+### 🧾 Prerequisites
 
 - Node.js and npm should be installed on your machine.
 
