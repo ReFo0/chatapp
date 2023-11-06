@@ -14,10 +14,10 @@ app.get('/', (req, res) => {
 });
 
 io.on('connection', (socket) => {
-  console.log('Kullanıcı bağlandı.');
+  console.log('User connected.');
 
   socket.on('disconnect', () => {
-    console.log('Kullanıcı ayrıldı.');
+    console.log('User left.');
   });
 
 
@@ -29,7 +29,7 @@ io.on('connection', (socket) => {
 
 
 server.listen(3000, () => {
-  console.log('Sunucu 3000 portunda çalışıyor.');
+  console.log('The server is running on port 3000.');
 });
 
 
